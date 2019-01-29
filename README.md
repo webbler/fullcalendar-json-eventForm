@@ -39,8 +39,9 @@ Developed primarily as a learning tool to understand how to manipulate json data
 ## Built With
 
 * PHP5
-* JSON / jQuery / JavaScript
-* HTML / CSS
+* JSON/jQuery/JavaScript
+* HTML5
+* CSS3
 
 ## Contributing
 
